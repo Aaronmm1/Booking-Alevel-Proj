@@ -1,0 +1,1 @@
+ALTER TABLE Members DROP CONSTRAINT ENumberCheck;
